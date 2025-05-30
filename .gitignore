@@ -1,6 +1,5 @@
-
-node_modules/
-.env
-vendor/
-public/build/
-public/vendor/
+/node_modules/
+/vendor/
+/public/build/
+/public/vendor/
+/.env
